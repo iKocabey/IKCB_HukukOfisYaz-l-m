@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "dgSpecHash": "/G4Pq7DBGpxo1CeTpIAwwe5v0nR99HvwzbGK7ic02NJ9/kPLNIY/F+uOSl68rSHlQxNMHk61ERNL7GvqZfmXZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ismailKocabey\\source\\repos\\IKCB_Law_Office\\IKCB_Law_Office\\IKCB_Law_Office.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\arctiongaugeswpf\\1.0.1.1\\arctiongaugeswpf.1.0.1.1.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\codearteng.gauge\\2.0.0\\codearteng.gauge.2.0.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\grapecity.datavisualization\\0.1.248\\grapecity.datavisualization.0.1.248.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\oxyplot.core\\2.1.0\\oxyplot.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\oxyplot.windowsforms\\2.1.0\\oxyplot.windowsforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\pdfsharpcore\\1.3.32\\pdfsharpcore.1.3.32.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\scichart\\6.6.0.26505\\scichart.6.6.0.26505.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\scottplot\\4.1.52\\scottplot.4.1.52.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\steema.teechart.net\\4.2022.7.14\\steema.teechart.net.4.2022.7.14.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\syncfusion.core.winforms\\20.1.0.47\\syncfusion.core.winforms.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\syncfusion.shared.base\\20.1.0.47\\syncfusion.shared.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\tiger.clock\\2.0.0\\tiger.clock.2.0.0.nupkg.sha512",
+    "C:\\Users\\ismailKocabey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'ArctionGaugesWPF 1.0.1.1' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "ArctionGaugesWPF",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'CodeArtEng.Gauge 2.0.0' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "CodeArtEng.Gauge",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Steema.TeeChart.NET 4.2022.7.14' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "Steema.TeeChart.NET",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

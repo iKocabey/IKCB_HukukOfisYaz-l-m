@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ismailKocabey\\source\\repos\\IKCB_Law_Office\\IKCB_Law_Office\\IKCB_Law_Office.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ismailKocabey\\source\\repos\\IKCB_Law_Office\\IKCB_Law_Office\\IKCB_Law_Office.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ismailKocabey\\source\\repos\\IKCB_Law_Office\\IKCB_Law_Office\\IKCB_Law_Office.csproj",
+        "projectName": "IKCB_Law_Office",
+        "projectPath": "C:\\Users\\ismailKocabey\\source\\repos\\IKCB_Law_Office\\IKCB_Law_Office\\IKCB_Law_Office.csproj",
+        "packagesPath": "C:\\Users\\ismailKocabey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ismailKocabey\\source\\repos\\IKCB_Law_Office\\IKCB_Law_Office\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ismailKocabey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ArctionGaugesWPF": {
+              "target": "Package",
+              "version": "[1.0.1.1, )"
+            },
+            "CodeArtEng.Gauge": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Grapecity.DataVisualization": {
+              "target": "Package",
+              "version": "[0.1.248, )"
+            },
+            "OxyPlot.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "OxyPlot.WindowsForms": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "SciChart": {
+              "target": "Package",
+              "version": "[6.6.0.26505, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[4.1.52, )"
+            },
+            "Steema.TeeChart.NET": {
+              "target": "Package",
+              "version": "[4.2022.7.14, )"
+            },
+            "Syncfusion.Core.WinForms": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Shared.Base": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Speech": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Tiger.Clock": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
